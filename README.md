@@ -1,4 +1,4 @@
 # JavaScript-Calculator
 My first JavaScript calculator
 
-This is my first javascript project and I plan to attempt many more increasing complicated project as time goes on
+This is my first javascript project and If you have any comments or issues noted feel free to point them out.
